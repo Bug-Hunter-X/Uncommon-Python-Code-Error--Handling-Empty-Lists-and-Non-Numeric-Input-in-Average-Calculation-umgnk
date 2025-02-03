@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a subtle error in average calculation and its solution. The original code lacks handling for empty input lists and non-numeric data. The solution addresses these shortcomings, providing a more robust function.
